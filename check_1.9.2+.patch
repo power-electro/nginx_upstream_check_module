@@ -1,7 +1,7 @@
-diff --git src/http/modules/ngx_http_upstream_hash_module.c src/http/modules/ngx_http_upstream_hash_module.c
+diff --git /tmp/nginx-1.9.2/src/http/modules/ngx_http_upstream_hash_module.c /tmp/nginx-1.9.2/src/http/modules/ngx_http_upstream_hash_module.c
 index 1e2e05c..44a72e2 100644
---- src/http/modules/ngx_http_upstream_hash_module.c
-+++ src/http/modules/ngx_http_upstream_hash_module.c
+--- /tmp/nginx-1.9.2/src/http/modules/ngx_http_upstream_hash_module.c
++++ /tmp/nginx-1.9.2/src/http/modules/ngx_http_upstream_hash_module.c
 @@ -9,6 +9,9 @@
  #include <ngx_core.h>
  #include <ngx_http.h>
